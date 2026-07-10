@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-07-10 23:34:26">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Pharmacy Management System">6a9dfc758385c3508c1975a6feaad32a</application>
+<base_update_set display_value=""/>
+<batch_install_plan display_value=""/>
+<completed_by display_value="Salma Nader">6816f79cc0a8016401c5a33be04be441</completed_by>
+<completed_on>2026-07-09 10:04:42</completed_on>
+<description/>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>Pharmacy Merged set</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>complete</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-06-15 14:11:26</sys_created_on>
+<sys_id>49ff60fc832d4b148c1975a6feaad37a</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-07-09 10:04:42</sys_updated_on>
+</sys_update_set>
+</unload>
