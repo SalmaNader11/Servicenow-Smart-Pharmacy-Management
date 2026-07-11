@@ -85,9 +85,7 @@ ServiceNow PDI · Flow Designer · Business Rules · Client Scripts · Script In
 | Path | Contents |
 |---|---|
 | `/docs` | Full project documentation — data model, implementation, test cases, results |
-| `/presentation` | Project presentation slides |
 | `/update-set` | Exportable ServiceNow update set XML — importable to any PDI |
-| `/screenshots` | Screenshots of all major features |
 
 > For full technical detail — field definitions, script bodies, ACL rules, test cases, and screenshots — see the documentation in `/docs`.
 
